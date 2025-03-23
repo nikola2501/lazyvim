@@ -7,6 +7,6 @@ return {
   end,
   -- Lazy load hop
   keys = {
-    { "<C-l>", "<cmd>HopWord<CR>", desc = "Hop word" },
+    { "<CR>", "<cmd>HopWord<CR>", desc = "Hop word" },
   },
 }
